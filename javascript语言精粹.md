@@ -1,4 +1,4 @@
-#JavaScript语言精粹笔记
+# JavaScript语言精粹笔记
 ---
 ##### 1. \__proto__(隐式原型)、prototype(显式原型)
   
